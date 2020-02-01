@@ -31,7 +31,7 @@ python app.py
  * Debugger is active!
  * Debugger PIN: 169-849-268
 
- # Click on http://127.0.0.1:5000/ or copypaste the link
+# Click on http://127.0.0.1:5000/ or copypaste the link
 
 ```
 
